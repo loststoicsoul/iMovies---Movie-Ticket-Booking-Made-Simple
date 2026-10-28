@@ -252,5 +252,5 @@ All **30 integration tests** pass cleanly with zero failures.
 
 ## 10. License & Author
 
-- **Author:** Aditya Vishwakarma  
+- **Author:** Mohd Tanzeel Imam  
 - **Project:** [iMovies — Movie Ticket Booking Made Simple](https://github.com/binarybrain-7/iMovies---Movie-Ticket-Booking-Made-Simple)  
