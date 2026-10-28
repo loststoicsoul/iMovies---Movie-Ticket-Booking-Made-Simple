@@ -1,0 +1,25 @@
+{
+  "name": "imovies",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IMovies - Movie ticket booking made simple",
+  "scripts": {
+    "dev": "node run-dev.js",
+    "start": "node run-dev.js",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server",
+    "test": "npm test --prefix server",
+    "build": "npm run build --prefix client",
+    "postinstall": "npm install --prefix server && npm install --prefix client"
+  },
+  "keywords": [
+    "imovies",
+    "movie-ticket-booking",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "Aditya Vishwakarma",
+  "license": "ISC"
+}
